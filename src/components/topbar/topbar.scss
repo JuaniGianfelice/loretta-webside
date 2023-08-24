@@ -1,0 +1,62 @@
+
+
+.topbar {
+
+.wrapper {
+  width: 90%;
+  height: 30px;
+  margin: auto;
+  font-size: 25px;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  text-shadow: 0.1em 0.1em 0.1em black;
+  box-shadow:  0.0em 0.1em black;
+
+  .left{
+    width: 15%;
+
+    .nav-logo {
+      width: 150px;
+    }
+  }
+    
+  .right {
+    width: 85%;
+ 
+    .options{
+      display: flex;
+      
+      li{
+        padding: 10px;
+        list-style: none;
+        
+        a{
+          text-decoration: none;
+          color: aliceblue;
+        }
+
+        a:hover{
+          text-decoration: underline;
+          text-shadow: 0.1em 0.1em 0.1em black;
+          text-underline-offset: 5px;
+        }
+      }
+    }
+  }
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Sirukota';
+    src: url('../../../public/assets/Sirukota.ttf') format('truetype');
+}
+
+.accordion {
+  height: auto;    
+  text-align: center;
+  margin: 0 15%; 
+  transition: 0.8s;
+}
+
+.accordion-item {
+    margin: 15px;
+  }
+  
+  .accordion-title {
+    padding: 5px;
+    font-family: 'Sirukota';
+    font-size: 45px;
+    font-weight: bolder;
+    text-shadow: 0.13em 0.1em  black;
+    cursor: pointer;
+  }
+  
+  .accordion-content {
+    display: none;
+    padding: 10px;
+    font-size: 20px;
+    text-shadow: 0.1em 0.1em 0.2em  black;
+  }
+  
+  .active {
+    display: block;
+  }
+
+  
