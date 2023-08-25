@@ -13,7 +13,7 @@ const News = () => {
         <div class="postnews">
           <div class="notice">
             <div class="titlenews">
-              <p>~ 11/06/22 Mercado de Pases</p>
+              <p>~ 11/06/23 Mercado de Pases</p>
             </div>
             <div class="infonews">
               <img src="/assets/new5.png" alt="Loretta"/>
@@ -21,7 +21,7 @@ const News = () => {
                 Se abre el mercado de pases y luego de semanas de negociaciones no logramos fichar a Leo Messi. <br /> <br />
                 La buena noticia fue que en la reserva de un equipo de inferiores se encontraba un muchacho buscando nuevo equipo. 
                 Estamos contentos de anunciar a Alejo Llanos como vocalista y fletar a Juani directo a la guitarra. <br /> <br />
-                El problema a todo esto es que ahora tenemos dos Alejos pero bueno, salia caro cambiarle el nombre.
+                El problema a todo esto es que ahora tenemos dos Alejos pero bueno, salía caro cambiarle el nombre.
               </p>
             </div>
           </div>
@@ -33,7 +33,7 @@ const News = () => {
               <img src="/assets/new4.png" alt="Loretta"/>
               <p>
                 Cerramos el año metiendo con una sexta y ultima fecha en <a href="https://www.facebook.com/elzaguancultural/?locale=es_LA">"El Zaguan Cultural"</a>, junto a
-                IRV, Nada es real y CRC, con la musicalizacion de Rasta Nation para el evento. <br /> <br />
+                IRV, Nada es real y GRC, con la musicalizacion de Rasta Nation para el evento. <br /> <br />
                 Tambien queremos informarles que vamos a tomarnos un bueeeen descanso del escenario para seguir trabajando
                 en nuestras canciones y poder traerles a futuro buen material para poder disfrutar. <br /> <br />
                 Nos vemos pronto a la vuelta y esten atentos a nuestro <a href="https://www.instagram.com/lorettazrt/"><FontAwesomeIcon icon={faInstagram}/> Instagram.</a>
