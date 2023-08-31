@@ -8,7 +8,7 @@ const Social = () => {
     return (
         <div className="social-footer">
             <div className="social">
-                <h1 className="titles">Nuestras Redes</h1>
+                <h1 className="title_foot">Nuestras Redes</h1>
                 <div className="links">
                     <a href="https://www.instagram.com/lorettazrt/">
                      <FontAwesomeIcon icon={faInstagram}/>

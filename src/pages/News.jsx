@@ -1,5 +1,4 @@
 import "../index.scss";
-import Topbar from '../components/topbar/Topbar';
 import Social from "../components/social/Social";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInstagram, faYoutube } from "@fortawesome/free-brands-svg-icons";
@@ -7,7 +6,6 @@ import { faInstagram, faYoutube } from "@fortawesome/free-brands-svg-icons";
 const News = () => {
   return (
     <>
-      <Topbar />
       <div className="news" id="news">
         <h1 className="titles">Noticias</h1>      
         <div class="postnews">

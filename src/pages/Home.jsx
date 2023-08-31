@@ -1,12 +1,12 @@
 import "../index.scss";
-import Topbar from '../components/topbar/Topbar';
+
 import Social from "../components/social/Social";
 
 
 const Home = () => {
   return (
     <>
-    <Topbar />
+    
     <div id="home">
       <h1 className="titles">Sobre Nosotros</h1>
       <div className="home">

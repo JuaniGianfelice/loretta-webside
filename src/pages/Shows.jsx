@@ -1,5 +1,4 @@
 import "../index.scss";
-import Topbar from '../components/topbar/Topbar';
 import Social from "../components/social/Social";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTicket, faCircleCheck, faPencil } from "@fortawesome/free-solid-svg-icons";
@@ -7,7 +6,6 @@ import { faTicket, faCircleCheck, faPencil } from "@fortawesome/free-solid-svg-i
 const Shows = () => {
     return (
       <>
-        <Topbar />
         <div className="shows" id="shows">
             <h1 className="titles">Shows</h1>      
             <div className="tour">
